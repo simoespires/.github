@@ -1,6 +1,4 @@
-<h1 style="text-align:center">
-    <b>TAX TECHNOLOGY</b>
-</h1>
+# <center> **TAX TECHNOLOGY** </center>
 
 
 ## **ABOUT US**
